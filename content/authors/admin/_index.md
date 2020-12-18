@@ -76,7 +76,7 @@ user_groups:
 - Visitors
 ---
 
-I’m a recently-graduated ecologist with a PhD from Ghent University, Belgium. My background lies in geoinformatics, biostatistics, and ecological consultancy, while I picked up skills in ecophysiology during work for the Rui Nabeiro Biodiversity Chair at the Museo Nacional de Ciencias Naturales in Madrid. My PhD work focused on disease ecology of the recently emerged fungal pathogen *Batrachochytrium salamandrivorans* in Europe. I'm a herpetologist at heart, with a weak spot for salamanders.
+I’m a recently-graduated ecologist with a PhD from Ghent University, Belgium. My background lies in geoinformatics, biostatistics, and ecological consultancy, while I picked up skills in ecophysiology during work for the Rui Nabeiro Biodiversity Chair at the Museo Nacional de Ciencias Naturales in Madrid. My PhD work focused on disease ecology of the recently emerged fungal pathogen *Batrachochytrium salamandrivorans* in north-western Europe. I'm a herpetologist at heart, with a weak spot for salamanders.
 
 This website works as a small portfolio and contact page to easily connect you to my academic work, repositories, photography, and other projects.
 * My publications can be accessed through my [ResearchGate account](https://www.researchgate.net/profile/Wouter_Beukema).
