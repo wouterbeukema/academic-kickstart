@@ -1,7 +1,11 @@
 # IDEs
 .idea/
 # Hugo
+<<<<<<< HEAD
 /resources/
 public/
 .Rproj.user
 public
+=======
+
+>>>>>>> 0a1152c7471ff326956da99cff2d77ab48d18520
