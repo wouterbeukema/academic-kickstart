@@ -1,7 +1,7 @@
 # IDEs
 .idea/
 # Hugo
-resources/
+/resources/
 public/
 .Rproj.user
 public
